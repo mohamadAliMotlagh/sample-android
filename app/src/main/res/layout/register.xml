@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<com.dmond.android.customViews.CTextInputLayout
+    android:layout_width="match_parent"
+    android:id="@+id/phone_number_lay"
+    android:layout_marginTop="@dimen/_10sdp"
+    android:layout_height="wrap_content">
+    <com.dmond.android.customViews.CEditText
+        android:layout_width="match_parent"
+        android:id="@+id/phone_number"
+        android:inputType="phone"
+        android:hint="شماره تلفن را وارد نمایید"
+        android:layout_height="wrap_content" />
+</com.dmond.android.customViews.CTextInputLayout>
+
+    <com.dmond.android.customViews.cTextView
+        android:layout_width="match_parent"
+        android:text="مرحله بعد"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:textColor="#000"
+        android:id="@+id/go_next"
+        android:gravity="center"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
