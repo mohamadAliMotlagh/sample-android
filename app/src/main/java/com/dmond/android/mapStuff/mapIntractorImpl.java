@@ -20,7 +20,7 @@ import com.google.android.gms.location.LocationServices;
  * Created by hosein on 1/21/17.
  */
 
-public class mapIntractorImpl implements mapIntractor, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, LocationListener {
+public class MapIntractorImpl implements MapIntractor, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, LocationListener {
     private boolean mRequestingLocationUpdates = false;
     private GoogleApiClient mGoogleApiClient;
     private LocationRequest mLocationRequest;

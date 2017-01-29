@@ -6,13 +6,13 @@ import android.app.Activity;
  * Created by hosein on 1/21/17.
  */
 
-public class registerPresenterImpl implements registerPresenter,registerIntractor.onRegsiterFinishedListener {
-   private registerView registerview;
-   private registerIntractor registerintractor;
+public class RegisterPresenterImpl implements RegisterPresenter,RegisterIntractor.onRegsiterFinishedListener {
+   private RegisterView registerview;
+   private RegisterIntractor registerintractor;
 
-    public registerPresenterImpl(registerView registerview){
+    public RegisterPresenterImpl(RegisterView registerview){
         this.registerview=registerview;
-        this.registerintractor=new registerIntractorImpl();
+        this.registerintractor=new RegisterIntractorImpl();
 
     }
 

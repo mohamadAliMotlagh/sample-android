@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 import android.view.Gravity;
 
 
-import com.dmond.android.myStatics;
+import com.dmond.android.utils.myStatics;
 
 public class CEditText extends AppCompatEditText {
     Context ctx;

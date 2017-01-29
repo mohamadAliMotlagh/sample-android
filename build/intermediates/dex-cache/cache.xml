@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_b432a2919f6e2eca864994e6126ff239883fe45c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="272184a1324bb681f18334654259ab3981205f72">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13ff799b08f8dabb3a76f01f4bc279df1f48a066/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_0a7dea1f12fe241f05d68dd859d21e53fe9caaa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_ea899043e2cfb596874eac8dc327d4d6981fedf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/.gradle/caches/modules-2/files-2.1/com.dmond/core/1.0-SNAPSHOT/46a72cf7b8bf00a402c0f27d1302bb0b7a22f755/core-1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="46a72cf7b8bf00a402c0f27d1302bb0b7a22f755">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-1.0-SNAPSHOT_92e5af2ddfbe5e909027b87898ffae6031c44304/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_0b1e9923ed4c41220f74ca9f799d74dc2f8189bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.0.0-RC1/83fed2e3554b8bacf8209bc22b62d76d4f674533/logging-interceptor-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="83fed2e3554b8bacf8209bc22b62d76d4f674533">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.0.0-RC1_896efc42251d7d99f6c6301dc2f5f0f6020ae416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_e653aaa36d4afd2469803a2752b4759964e96129/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_139bbe21517769491b001ea8544936b91bfae65d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d05adf209076d92bbb64209dafcf104c60501694/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a40023d2b9493f1282f98d51c955ef477b1fec28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0_a13b20e23331b6d9fc248a76e130e9f145018de6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4e4d667af7eb8695a340a63f00126940c73f4b4">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_190ebfdd1a16e4c09a1045136b54aa76ff8900ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_9bcf10dc37cdb1d4ca1415534b9ba40c86484697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_db51ad673f141abf24050c799f8fd47b87534215/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a83c57ad4c94b3b493c08dcc0e5420e5cf1377bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e0125182dc29b789f8271c2f4e5494d18f173f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_d681e1391620b8c34f964c5f1e83f324cc1f0765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_1075fd0b976bd5bed75078276da62dc58c7cfba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_17554766dfd3a38429cfbc5fa0ea60adffe71891/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c42182d15bac5032b00069c3d0b0992d25bfa7db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_7a9763c21d9efa3e7fe99f473f606ea6218ed372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_22ab33d726968c4aa45d65789b766dd7144dc7a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a1645dab14e0dfa3b404abfdd3ce32a1eaeb637a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Documents/adt-bundle-mac-x86_64-20130522/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_5cd3ad922c20aac150a63a1c7bed90546700a914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c5a09a93a1e3c590c2528164fbe80c158b3ac45a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_ac682bc3c6c7035223e30b5343ebb36d21d109ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.intuit.sdp/sdp-android/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1708b398a3a062a2f9aea3d314a3bfe53d9d5133">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.intuit.sdp-sdp-android-1.0.0_0ccaf8cbee1fd3d2ca67ebcee39da9a04837a0ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_078ded3982f69e47c8c2786b2c898f7c37cb9d15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_0385dbd268387f26bcb100b5d2356bd5b1e135b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_5fb48c5b4b0b7d189fda79e577526a1fc93301e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b1c29be532dd80854a02193c342f9cd72752c3d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_3ab8a506e282286d1fd48949ea699998ec8861db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/hosein/Desktop/Dmond/pickodo-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_beb98c6574173268280093ed6b39cd77d8b88dd5/classes.dex" />
+    </item>
+
+</items>

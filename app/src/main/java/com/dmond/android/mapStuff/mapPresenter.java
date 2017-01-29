@@ -8,7 +8,7 @@ import com.google.android.gms.maps.GoogleMap;
  * Created by hosein on 1/21/17.
  */
 
-public interface mapPresenter {
+public interface MapPresenter {
     void makeMap(GoogleMap googleMap);
     void onDestroy();
     void onPause();

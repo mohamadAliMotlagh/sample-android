@@ -4,7 +4,6 @@ import android.Manifest;
 import android.content.Context;
 import android.content.pm.PackageManager;
 import android.location.Location;
-import android.os.Handler;
 import android.support.v4.app.ActivityCompat;
 
 import com.google.android.gms.common.api.GoogleApiClient;
@@ -18,16 +17,16 @@ import com.google.android.gms.maps.model.MarkerOptions;
  * Created by hosein on 1/21/17.
  */
 
-public class mapPresenterImpl implements mapPresenter,mapIntractor.onLoadMapFinishedListener{
+public class MapPresenterImpl implements MapPresenter,MapIntractor.onLoadMapFinishedListener{
 
     private GoogleApiClient mGoogleApiClient;
-    private mapIntractor mapIntractor;
-    private mapview mapview;
+    private MapIntractor mapIntractor;
+    private MapView mapview;
     private Context context;
-  public   mapPresenterImpl(mapview mapview, Context context){
+  public MapPresenterImpl(MapView mapview, Context context){
       this.context=context;
       this.mapview=mapview;
-      this.mapIntractor=new mapIntractorImpl();
+      this.mapIntractor=new MapIntractorImpl();
   }
 
     @Override
@@ -61,7 +60,7 @@ public class mapPresenterImpl implements mapPresenter,mapIntractor.onLoadMapFini
     @Override
     public void onResume() {
     mapIntractor.onres(context);
-        mapIntractor.loadMap(mapPresenterImpl.this,context);
+        mapIntractor.loadMap(MapPresenterImpl.this,context);
 
 
     }

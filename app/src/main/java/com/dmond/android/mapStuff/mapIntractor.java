@@ -7,7 +7,7 @@ import android.location.Location;
  * Created by hosein on 1/21/17.
  */
 
-public interface mapIntractor {
+public interface MapIntractor {
 
 interface onLoadMapFinishedListener{
     void mapLoadSuccess();

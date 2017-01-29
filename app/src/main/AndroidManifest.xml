@@ -21,15 +21,14 @@
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyD1eSPXkbv8gndgYLL_nIMlOu-Iu7jffa0"/>
-        <activity android:name=".registration.registerActivity">
+        <activity android:name=".registration.RegisterActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activitys.MainActivity"/>
-        <activity android:name=".mapStuff.mapActivity"/>
+        <activity android:name=".mapStuff.MapActivity"/>
     </application>
 
 </manifest>

@@ -7,7 +7,7 @@ import android.content.Context;
  * Created by hosein on 1/21/17.
  */
 
-public interface registerIntractor {
+public interface RegisterIntractor {
 
     interface onRegsiterFinishedListener
     {

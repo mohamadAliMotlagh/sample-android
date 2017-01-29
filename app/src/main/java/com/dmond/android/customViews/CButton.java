@@ -5,7 +5,7 @@ import android.graphics.Typeface;
 import android.support.v7.widget.AppCompatButton;
 import android.util.AttributeSet;
 
-import com.dmond.android.myStatics;
+import com.dmond.android.utils.myStatics;
 
 
 public class CButton extends AppCompatButton {

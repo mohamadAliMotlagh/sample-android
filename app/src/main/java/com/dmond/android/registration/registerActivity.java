@@ -7,18 +7,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import com.dmond.android.R;
-import com.dmond.android.activitys.MainActivity;
 import com.dmond.android.customViews.CEditText;
 import com.dmond.android.customViews.CTextInputLayout;
 import com.dmond.android.customViews.cTextView;
-import com.dmond.android.mapStuff.mapActivity;
+import com.dmond.android.mapStuff.MapActivity;
 
 /**
  * Created by hosein on 1/21/17.
  */
 
-public class registerActivity extends AppCompatActivity implements registerView, View.OnClickListener {
-    private registerPresenter presenter;
+public class RegisterActivity extends AppCompatActivity implements RegisterView, View.OnClickListener {
+    private RegisterPresenter presenter;
     private CTextInputLayout phoneNumberLay;
     private CEditText phoneNumberEdt;
     private cTextView go;
@@ -29,7 +28,7 @@ public class registerActivity extends AppCompatActivity implements registerView,
         setContentView(R.layout.register);
         phoneNumberLay = (CTextInputLayout) findViewById(R.id.phone_number_lay);
         phoneNumberEdt = (CEditText) findViewById(R.id.phone_number);
-        presenter = new registerPresenterImpl(this);
+        presenter = new RegisterPresenterImpl(this);
         go= (cTextView) findViewById(R.id.go_next);
         go.setOnClickListener(this);
 
@@ -43,7 +42,7 @@ public class registerActivity extends AppCompatActivity implements registerView,
 
     @Override
     public void onClick(View v) {
-        presenter.validatePhoneNumber(registerActivity.this,phoneNumberEdt.getText().toString());
+        presenter.validatePhoneNumber(RegisterActivity.this,phoneNumberEdt.getText().toString());
     }
 
     @Override
@@ -53,6 +52,7 @@ public class registerActivity extends AppCompatActivity implements registerView,
 
     @Override
     public void hideProgress() {
+
     }
 
     @Override
@@ -62,7 +62,7 @@ public class registerActivity extends AppCompatActivity implements registerView,
 
     @Override
     public void navigateToHome() {
-        Intent intent = new Intent(this, mapActivity.class);
+        Intent intent = new Intent(this, MapActivity.class);
         startActivity(intent);
     }
 }

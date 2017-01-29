@@ -1,32 +1,25 @@
 package com.dmond.android.mapStuff;
 
-import android.Manifest;
-import android.content.pm.PackageManager;
 import android.location.Location;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
 import com.dmond.android.R;
-import com.google.android.gms.maps.CameraUpdate;
-import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
-import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.maps.model.MarkerOptions;
 
 /**
  * Created by hosein on 1/21/17.
  */
 
-public class mapActivity extends AppCompatActivity implements mapview,OnMapReadyCallback {
+public class MapActivity extends AppCompatActivity implements MapView,OnMapReadyCallback {
 
 
 
-    private mapPresenter mappresenter;
+    private MapPresenter mappresenter;
     private Location location;
 
 
@@ -47,7 +40,7 @@ public class mapActivity extends AppCompatActivity implements mapview,OnMapReady
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mappresenter=new mapPresenterImpl(this,mapActivity.this);
+        mappresenter=new MapPresenterImpl(this,MapActivity.this);
         mappresenter.oncreat();
     }
 
@@ -56,7 +49,7 @@ public class mapActivity extends AppCompatActivity implements mapview,OnMapReady
     public void mapReady() {
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
-        mapFragment.getMapAsync(mapActivity.this);
+        mapFragment.getMapAsync(MapActivity.this);
     }
 
     @Override

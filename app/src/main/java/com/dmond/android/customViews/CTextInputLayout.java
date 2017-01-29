@@ -10,7 +10,7 @@ import android.text.TextPaint;
 import android.text.style.MetricAffectingSpan;
 import android.util.AttributeSet;
 
-import com.dmond.android.myStatics;
+import com.dmond.android.utils.myStatics;
 
 
 public class CTextInputLayout extends TextInputLayout {
